@@ -1,1 +1,2 @@
 - **Short-term goal:** Master advanced Git workflows and core computer science algorithms.
+- **Long-term goal:** Evolve into an AI-driven Full-Stack Engineer, combining modern web development with a core expertise in Machine Learning and AI integration.
