@@ -1,0 +1,1 @@
+- **Short-term goal:** Master advanced Git workflows and core computer science algorithms.
