@@ -1,0 +1,3 @@
+- **Programming Languages:** C, C++, Python, Java, JavaScript
+- **Tools & Frameworks:** Git, GitHub, React 18, Arduino IDE
+- **Soft Skills:** Team Collaboration, Analytical Problem Solving, Academic Writing
