@@ -1,0 +1,4 @@
+- **Smart India Hackathon (SIH):** Participant (2025)
+- **Smart India Hackathon (SIH):** Participant (2026)
+- **SEMS Welfare Foundation:** Data Analyst Intern (2 Months, 2026)
+- **American Center:** Robotics Workshop , Built an small working Car . 
